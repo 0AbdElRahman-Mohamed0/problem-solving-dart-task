@@ -1,0 +1,15 @@
+name: csv_problem_solving_task
+description: A sample command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  csv: ^5.0.2
+  path: ^1.8.3
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: any
